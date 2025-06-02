@@ -8,7 +8,7 @@
 
 import Foundation
 
-public struct ParsedHost {
+public struct ParsedHost: Sendable {
 
     /// E.g. "com", "co.uk"
     public let publicSuffix: String

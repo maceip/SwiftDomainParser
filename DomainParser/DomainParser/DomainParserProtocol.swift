@@ -8,7 +8,7 @@
 
 import Foundation
 
-public protocol DomainParserProtocol {
+public protocol DomainParserProtocol: Sendable {
     func parse(host: String) -> ParsedHost?
 }
 
