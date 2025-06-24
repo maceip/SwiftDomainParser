@@ -1,3 +1,4 @@
+#!
 # Domain Parser
 ![Platforms](https://img.shields.io/badge/Platforms-iOS_macOS-blue.svg?style=flat)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://github.com/Dashlane/SwiftDomainParser/blob/master/LICENSE)
